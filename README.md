@@ -1,5 +1,7 @@
 ## Web Server
 
+This is a simple web server application written in Go (Golang) to host a portfolio website. The server handles static files, serves a basic form, and responds with a "hello" message.
+
 ### Usage
 
 1. **Clone Repository**: Clone this repository to your local machine.
