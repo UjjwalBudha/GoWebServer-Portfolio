@@ -15,3 +15,7 @@
 3. **Run the Server**: Execute the Go program to start the web server.
    ```bash
    go run main.go
+
+   ![Portfolio Website Screenshot](image.png)
+
+This is a screenshot of my portfolio hosted using the application.
